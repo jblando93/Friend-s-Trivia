@@ -1,12 +1,12 @@
 
 
 
-var variableStringQuestion=["What was monica's name on her high school field hockey team?","What Do They Call Ross When he gets angry?","Question3","Question4","Question5","Question6","Question7","Question8","Question9","Question10"]
+var variableStringQuestion=["What was monica's name on her high school field hockey team?","What Do They Call Ross When he gets angry?","Yeah","Question4","Question5","Question6","Question7","Question8","Question9","Question10"]
 
-var variableStringAnswerOne=["Big Fat Goalie","Rizzo"]
-var variableStringAnswerTwo=["Dumb Answer","Red Ross"]
-var variableStringAnswerThree=["Stupid Answer","Ms.Chanandler Bong"]
-var variableStringAnswerFour=["Retarded Answer","Doctor filange"]
+var variableStringAnswerOne=["Big Fat Goalie","Rizzo","nope"]
+var variableStringAnswerTwo=["Dumb Answer","Red Ross","nuh-uh"]
+var variableStringAnswerThree=["Stupid Answer","Ms.Chanandler Bong","yup"]
+var variableStringAnswerFour=["Retarded Answer","Doctor filange","yeah"]
 
 var variableIntegerCorrectAnswer=[1,2]
 var x = -1
